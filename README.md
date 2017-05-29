@@ -8,7 +8,7 @@ Depend on [UvaTools](https://github.com/sd12582000/UvaTools)
 
 ## Installing
 ---
-1. Download the [Plugin]()
+1. Download the [Plugin](https://github.com/sd12582000/wox_uva/releases)
 2. Edit `config.json`
 3. copy the plugin to `<WoxDirectory>\Plugins\<YourPluginDirectory>`
 4. restart the Wox
