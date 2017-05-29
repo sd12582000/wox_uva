@@ -1,0 +1,12 @@
+{
+  "ID":"c1d1d2c2619a4277899b712e9dbbc387",   
+  "ActionKeyword":"uva",                     
+  "Name":"Wox-Uva-Tools",                              
+  "Description":"My Uva Tools from Wox",    
+  "Author":"OldNick",                     
+  "Version":"0.0.1",                         
+  "Language":"python",                       
+  "Website":"",         
+  "IcoPath": "onlineJudgeLogo.png",              
+  "ExecuteFileName":"wox_uva.py"   
+}
